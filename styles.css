@@ -1,0 +1,11 @@
+.btn-primary {
+  /* The default state */
+  background-color: #007bff;
+  color: white;
+}
+
+.btn-primary.active {
+  /* The clicked state */
+  background-color: darkgreen;
+  color: white;
+}
